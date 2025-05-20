@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "312647624419",
+    "project_id": "manicode-1016f",
+    "storage_bucket": "manicode-1016f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:312647624419:android:6c6dafcfa52499e45987d6",
+        "android_client_info": {
+          "package_name": "com.example.manicode"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgxrWgNMYq_7Q9TkaQvjB9YJ9dVbg9hMA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
